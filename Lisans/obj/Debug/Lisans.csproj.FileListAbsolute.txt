@@ -1,0 +1,6 @@
+C:\Users\WIN8\Documents\Visual Studio 2013\Projects\EtikeTAP\Lisans\bin\Debug\Lisans.dll
+C:\Users\WIN8\Documents\Visual Studio 2013\Projects\EtikeTAP\Lisans\bin\Debug\Lisans.pdb
+C:\Users\WIN8\Documents\Visual Studio 2013\Projects\EtikeTAP\Lisans\bin\Debug\QLicense.dll
+C:\Users\WIN8\Documents\Visual Studio 2013\Projects\EtikeTAP\Lisans\bin\Debug\QLicense.pdb
+C:\Users\WIN8\Documents\Visual Studio 2013\Projects\EtikeTAP\Lisans\obj\Debug\Lisans.dll
+C:\Users\WIN8\Documents\Visual Studio 2013\Projects\EtikeTAP\Lisans\obj\Debug\Lisans.pdb
